@@ -11,7 +11,7 @@ Shell-Crypt is a utility for encrypting shellcode for C/C++ based implants using
 
 ## Functions & Features
 
-:heavy_check_mark: Evade scan time detection for heavily signatured shellcodes such as msfvenom
+:heavy_check_mark: Evade scan time detection for heavily signatured shellcodes such as msfvenom  
 :heavy_check_mark: Hide key from static analysis via encryption  
 :heavy_check_mark: Self bruteforcing key  
 :heavy_check_mark: Internal validation function to run shellcode & key through decryption & execution process 
